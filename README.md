@@ -40,9 +40,4 @@ The target variable is the `class` of the wine (cultivar 1, 2, or 3).
 - `marginaleffects`, `checkmate` for marginal effect analysis
 - `caret` for classification evaluation
 
-#
-## Author
-Nuraisi Maba Alhuda – 23031554054
-Akhmad Dany – 23031554234
-Moh Annas Shobari – 23031554241
-Rizki Wahyu Widodo – 23031554242
+
